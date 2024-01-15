@@ -1,29 +1,24 @@
-<h1 align="center">Hi 👋, I'm Emon Saha Shishir</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+### Hi there 👋, Emon Saha Shishir
+#### A passionate frontend developer from Bangladesh
+![A passionate frontend developer from Bangladesh](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+I am Emon Saha Shishir, I am professional Web Developer and Designer for last +2 years.I will provide these services: convert figma to html css.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aljabirrahman&label=Profile%20views&color=0e75b6&style=flat" alt="aljabirrahman" /> </p>
 
-- 🌱 I’m currently learning **Creative It Iinstitute**
+Skills: HTML / CSS / Bootstrap
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/aljabirrahman](https://linktr.ee/aljabirrahman)
+- 🔭 I’m currently working on Home 
+- 🌱 I’m currently learning  Creative It Institute 
+- ⚡ Fun fact: I am funny 
 
-- ⚡ Fun fact **I'm funny😊**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/al-jabir-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al-jabir-rahman" height="30" width="40" /></a>
-<a href="https://fb.com/aljabirrahman3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aljabirrahman3" height="30" width="40" /></a>
-<a href="https://instagram.com/aljabirrahman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aljabirrahman1" height="30" width="40" /></a>
-<a href="https://www.behance.net/aljabirrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aljabirrahman" height="30" width="40" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emonsahashishir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/emon.saha.165)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/emonsahashishir)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aljabirrahman&show_icons=true&locale=en&layout=compact" alt="aljabirrahman" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonsahashishir)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aljabirrahman&show_icons=true&locale=en" alt="aljabirrahman" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=emonsahashishir&show_icons=true)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aljabirrahman&" alt="aljabirrahman" /></p>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/emonsahashishir/contributions?format=svg&private=false)  
+
